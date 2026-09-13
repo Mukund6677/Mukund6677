@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Mukund6677/Mukund6677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Mukund Kumar
 
-Here are some ideas to get you started:
+### 🤖 Aspiring Agentic AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 3rd-year **ECE (AIML) undergraduate** and a tech enthusiast exploring innovations and building my skills in AI.
+
+* 🔭 I’m currently exploring **Agentic AI & AI Agents**
+* 🌱 I’m currently learning **Generative AI, LLMs, RAG & DSA**
+* 🎓 Pursuing **ECE (AIML)**
+* 🚀 I’m focused on building projects and developing a strong profile in **AI**
+* 🤝 I’m open to learning, collaborating, and building interesting projects
+* 📫 How to reach me: **[mukundkumar6677@gmail.com](mailto:mukundkumar6677@gmail.com)**
+
+### ⚡ Tech I'm Exploring
+
+**Python • Machine Learning • Deep Learning • Generative AI • LLMs • RAG • Agentic AI • DSA**
+
+---
+
+*“Learning, building, and exploring what's next in AI.”* 🚀
